@@ -5,6 +5,8 @@ X   csv schreiben
 -   gleiche teile in solid works schreiben
 
 
+# Bauen der Exe: 
+`pyinstaller .\createFingerprint.py`
 
 
 # def createFingerprint(line):
